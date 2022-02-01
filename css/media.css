@@ -1,0 +1,276 @@
+/*Extra Small*/
+@media screen and (max-width: 576px) {
+    .logo_block {
+        margin-bottom: 20px;
+    }
+    .logo__title-h4 {
+        margin-bottom: 75px;
+    }
+    .header {
+        padding-top: 170px;
+    }
+    .header__title-btn {
+        margin-top: 70px;
+    }
+    .title::after {
+        top: 114%;
+    }
+    .title {
+        font-size: 31px;
+    }
+    .header__title-btn {
+        padding: 12px 34px;
+        margin-top: 64px;
+        font-size: 14px;
+    }
+    .title2 {
+        font-size: 30px;
+    }
+    .title::after {
+        width: 90px;
+    }
+    .title2::after {
+        width: 90px;
+    }
+    .about__block-text {
+        font-size: 14px;
+    }
+    .about__icon-text {
+        font-size: 14px;
+    }
+    .about__icon-title {
+        font-size: 22px;
+    }
+    .about {
+        padding: 80px 0 160px 0;
+    }
+    .protfolio__btn-button {
+        padding: 12px 34px;
+    }
+    .link__box__ul__li-a {
+        font-size: 14px;
+    }
+    .link__box-text {
+        font-size: 14px;
+    }
+
+    .link__box__ul {
+        /* justify-content: flex-start; */
+    }
+    .logo__title-h4 {
+        font-size: 25px;
+    }
+    .logo {
+        padding: 60px 0;
+    }
+    .logo__title-h4 {
+        margin-bottom: 60px;
+    }
+}
+/*Small*/
+@media screen and (max-width: 767px) and (min-width: 576px) {
+    .title::after {
+        top: 117%;
+    }
+}
+/*Medium*/
+@media screen and (max-width: 992px) and (min-width: 768px) {
+    .title::after {
+        top: 124%;
+    }
+}
+/*Large*/
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+
+}
+/*Extra Large*/
+@media  (min-width: 1200px) {
+
+}
+
+/* @media screen and (width: 1024px) and (height: 1366px) {
+    
+} */
+@media screen and (max-width: 360px) {
+    .title {
+        font-size: 18px;
+    }
+    .header__title-btn {
+        padding: 12px 34px;
+        margin-top: 70px;
+        font-size: 14px;
+    }
+    .title2 {
+        font-size: 32px;
+    }
+    .title::after {
+        width: 90px;
+    }
+    .title2::after {
+        width: 90px;
+    }
+    .about__block-text {
+        font-size: 12px;
+    }
+    .about__icon-text {
+        font-size: 12px;
+    }
+    .about__icon-title {
+        font-size: 21px;
+    }
+    .about {
+        padding: 80px 0 160px 0;
+    }
+    .title2 {
+        font-size: 25px;
+    }
+    .protfolio__btn-button {
+        padding: 12px 34px;
+    }
+    .link {
+        padding: 100px 0 80px 0;
+    }
+    .link__box__ul__li-a {
+        font-size: 12px;
+    }
+    .link__box-text {
+        font-size: 12px;
+        font-size: 14px;
+    }
+    .link__box__ul {
+        justify-content: flex-start;
+    }
+    .logo__title-h4 {
+        font-size: 25px;
+    }
+    .logo {
+        padding: 60px 0;
+    }
+    .logo__title-h4 {
+        margin-bottom: 60px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .title {
+        font-size: 18px;
+    }
+    .header__title-btn {
+        padding: 12px 34px;
+        margin-top: 70px;
+        font-size: 14px;
+    }
+    .title2 {
+        font-size: 32px;
+    }
+    .title::after {
+        width: 90px;
+    }
+    .title2::after {
+        width: 90px;
+    }
+    .about__block-text {
+        font-size: 12px;
+    }
+    .about__icon-text {
+        font-size: 12px;
+    }
+    .about__icon-title {
+        font-size: 21px;
+    }
+    .about {
+        padding: 80px 0 160px 0;
+    }
+    .title2 {
+        font-size: 25px;
+    }
+    .protfolio__btn-button {
+        padding: 12px 34px;
+    }
+    .link {
+        padding: 100px 0 80px 0;
+    }
+    .link__box__ul__li-a {
+        font-size: 12px;
+    }
+    .link__box-text {
+        font-size: 12px;
+        font-size: 14px;
+    }
+    .link__box__ul {
+        justify-content: flex-start;
+    }
+    .logo__title-h4 {
+        font-size: 25px;
+    }
+    .logo {
+        padding: 60px 0;
+    }
+    .logo__title-h4 {
+        margin-bottom: 60px;
+    }
+}
+@media screen and (max-width: 280px) {
+    .title {
+        font-size: 18px;
+    }
+    .header__title-btn {
+        padding: 12px 34px;
+        margin-top: 70px;
+        font-size: 14px;
+    }
+    .title2 {
+        font-size: 32px;
+    }
+    .title::after {
+        width: 90px;
+    }
+    .title2::after {
+        width: 90px;
+    }
+    .about__block-text {
+        font-size: 12px;
+    }
+    .about__icon-text {
+        font-size: 12px;
+    }
+    .about__icon-title {
+        font-size: 21px;
+    }
+    .about {
+        padding: 80px 0 160px 0;
+    }
+    .title2 {
+        font-size: 25px;
+    }
+    .protfolio__btn-button {
+        padding: 12px 34px;
+    }
+    .link {
+        padding: 100px 0 80px 0;
+    }
+    .link__box__ul__li-a {
+        font-size: 12px;
+    }
+    .link__box-text {
+        font-size: 12px;
+        font-size: 14px;
+    }
+    .link__box__ul {
+        justify-content: flex-end;
+    }
+    .logo__title-h4 {
+        font-size: 25px;
+    }
+}
+
+
+
+
+
+         
+
+
+
+
+
+    
